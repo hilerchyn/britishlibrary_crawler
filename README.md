@@ -1,4 +1,4 @@
-britishlibrary_crawl
+BritishLibrary Pictures Crawler
 ====================
 
 auto get pictures from British Library Flickr 
